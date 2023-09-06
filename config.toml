@@ -4,8 +4,8 @@ title = "Moulard's Blog"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 # Site settings
-#theme = "hugo-theme-cactus-plus"
-theme = "LoveIt"
+theme = "hugo-theme-cactus-plus"
+#theme = "LoveIt"
 # googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
